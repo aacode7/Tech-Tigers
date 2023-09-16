@@ -1,4 +1,5 @@
-import pymongo
+
+"""import pymongo
 from gridfs import GridFS
 
 # Replace with your MongoDB connection URI
@@ -29,3 +30,4 @@ except Exception as e:
 finally:
     # Close the MongoDB connection when done
     client.close()
+"""
